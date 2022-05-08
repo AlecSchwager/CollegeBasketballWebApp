@@ -22,7 +22,8 @@ Created an online web application that consolidates statistics from previous NCA
 
 
 ### Screenshots 
-[Home Page]<img width="1026" alt="Home Page" src="(https://user-images.githubusercontent.com/78836741/167313309-2bb11708-fc74-403d-8c11-1451dd14f458.png">
+[Home Page]
+<img width="1026" alt="Home Page" src="(https://user-images.githubusercontent.com/78836741/167313309-2bb11708-fc74-403d-8c11-1451dd14f458.png">
 
 
 
