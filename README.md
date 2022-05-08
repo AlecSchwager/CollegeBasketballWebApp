@@ -1,5 +1,5 @@
 # College Basketball Web Application
-Data Wrangling
+Database Management
 ### Description: 
 Created an online web application that consolidates statistics from previous NCAAM College Basketball seasons to allow for querying and data collection for further analysis.
 
